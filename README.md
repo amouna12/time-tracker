@@ -4,6 +4,6 @@ Java (Maven) application for tracking time on the job
 
 # TEST Source Control polling 
 
-demo
+demo test
 
 Time tracker
